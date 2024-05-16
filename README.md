@@ -1,5 +1,5 @@
 ### Hi there 👋
-#This is T@rik
+# This is T@rik
 #### I am a CSE student
 ![I am a CSE student](https://th.bing.com/th/id/OIP.WCqK6XavZC3o_vWbiDsfxQAAAA?rs=1&pid=ImgDetMain)
 
