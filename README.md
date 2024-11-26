@@ -1,6 +1,6 @@
 ### Hi there 👋
 # This is T@rik
-#### I am a CSE student
+#### I am a CSE student of University of Rajshahi
 ![I am a CSE student](https://th.bing.com/th/id/OIP.WCqK6XavZC3o_vWbiDsfxQAAAA?rs=1&pid=ImgDetMain)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
